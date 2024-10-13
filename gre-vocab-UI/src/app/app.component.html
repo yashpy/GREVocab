@@ -1,0 +1,16 @@
+<div class="container">
+  <h1 class="title">GRE Vocabulary Trainer</h1>
+  <input
+      [(ngModel)]="word"
+      placeholder="Enter a GRE word"
+      class="input-field"
+  />
+  <input
+  [(ngModel)]="language"
+  placeholder="Enter Model to be trained in particular language"
+  class="input-field"
+/>
+  <button (click)="fetchDefinition()" class="submit-button">Get Definition</button>
+  <h2 *ngIf="definition" class="definition-title">Definition:</h2>
+  <pre *ngIf="definition" class="definition-output">{{ definition | json }}</pre>
+</div>
