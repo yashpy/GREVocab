@@ -1,0 +1,6 @@
+# Add libraries for advanced LLM integration in you are a contributor to this project.
+
+# Dependencies:
+# Python version > 11
+# Pip
+# Flask Transformers

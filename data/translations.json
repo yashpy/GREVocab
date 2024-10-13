@@ -1,0 +1,626 @@
+[
+    {
+        "word": "Anomaly",
+        "part_of_speech": "noun",
+        "meaning": {
+            "english": "something that is unusual or unexpected",
+            "translations": {
+                "spanish": "algo que es inusual o inesperado",
+                "french": "quelque chose d'inhabituel ou d'inattendu",
+                "german": "etwas, das ungewöhnlich oder unerwartet ist"
+            }
+        }
+    },
+    {
+        "word": "Equivocal",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "not easily understood or explained",
+            "translations": {
+                "spanish": "no fácil de entender o explicar",
+                "french": "pas facilement compris ou expliqué",
+                "german": "nicht leicht zu verstehen oder zu erklären"
+            }
+        }
+    },
+    {
+        "word": "Lucid",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "very clear and easy to understand",
+            "translations": {
+                "spanish": "muy claro y fácil de entender",
+                "french": "très clair et facile à comprendre",
+                "german": "sehr klar und leicht verständlich"
+            }
+        }
+    },
+    {
+        "word": "Precipitate",
+        "part_of_speech": "verb",
+        "meaning": {
+            "english": "to cause (something) to happen quickly or suddenly",
+            "translations": {
+                "spanish": "hacer que algo suceda rápidamente o de repente",
+                "french": "faire en sorte que quelque chose arrive rapidement ou soudainement",
+                "german": "etwas schnell oder plötzlich geschehen lassen"
+            }
+        }
+    },
+    {
+        "word": "Assuage",
+        "part_of_speech": "verb",
+        "meaning": {
+            "english": "to make (an unpleasant feeling) less intense",
+            "translations": {
+                "spanish": "hacer que un sentimiento desagradable sea menos intenso",
+                "french": "rendre un sentiment désagréable moins intense",
+                "german": "ein unangenehmes Gefühl weniger intensiv machen"
+            }
+        }
+    },
+    {
+        "word": "Erudite",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "having or showing great knowledge",
+            "translations": {
+                "spanish": "tener o mostrar un gran conocimiento",
+                "french": "avoir ou montrer une grande connaissance",
+                "german": "großes Wissen haben oder zeigen"
+            }
+        }
+    },
+    {
+        "word": "Opaque",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "not able to be seen through; not easily understood",
+            "translations": {
+                "spanish": "no se puede ver a través de; no fácilmente entendido",
+                "french": "non transparent; pas facilement compris",
+                "german": "nicht durchsichtig; nicht leicht zu verstehen"
+            }
+        }
+    },
+    {
+        "word": "Prodigal",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "wastefully extravagant",
+            "translations": {
+                "spanish": "desperdiciadoramente extravagante",
+                "french": "gaspillant de manière extravagante",
+                "german": "verschwenderisch extravagant"
+            }
+        }
+    },
+    {
+        "word": "Enigma",
+        "part_of_speech": "noun",
+        "meaning": {
+            "english": "a person or thing that is mysterious, puzzling, or difficult to understand",
+            "translations": {
+                "spanish": "una persona o cosa que es misteriosa, desconcertante o difícil de entender",
+                "french": "une personne ou une chose qui est mystérieuse, déconcertante ou difficile à comprendre",
+                "german": "eine Person oder Sache, die geheimnisvoll, rätselhaft oder schwer zu verstehen ist"
+            }
+        }
+    },
+    {
+        "word": "Fervid",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "intensely enthusiastic or passionate",
+            "translations": {
+                "spanish": "intensamente entusiasta o apasionado",
+                "french": "intensément enthousiaste ou passionné",
+                "german": "intensiv enthusiastisch oder leidenschaftlich"
+            }
+        }
+    },
+    {
+        "word": "Placate",
+        "part_of_speech": "verb",
+        "meaning": {
+            "english": "to make (someone) less angry or hostile",
+            "translations": {
+                "spanish": "hacer que alguien esté menos enojado o hostil",
+                "french": "rendre quelqu'un moins en colère ou hostile",
+                "german": "jemanden weniger wütend oder feindlich stimmen"
+            }
+        }
+    },
+    {
+        "word": "Zeal",
+        "part_of_speech": "noun",
+        "meaning": {
+            "english": "a strong feeling of interest and enthusiasm",
+            "translations": {
+                "spanish": "un fuerte sentimiento de interés y entusiasmo",
+                "french": "un fort sentiment d'intérêt et d'enthousiasme",
+                "german": "ein starkes Gefühl von Interesse und Begeisterung"
+            }
+        }
+    },
+    {
+        "word": "Abstain",
+        "part_of_speech": "verb",
+        "meaning": {
+            "english": "to restrain oneself from doing or enjoying something",
+            "translations": {
+                "spanish": "restringirse de hacer o disfrutar algo",
+                "french": "se retenir de faire ou de profiter de quelque chose",
+                "german": "sich davon abhalten, etwas zu tun oder zu genießen"
+            }
+        }
+    },
+    {
+        "word": "Audacious",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "a willingness to take bold risks",
+            "translations": {
+                "spanish": "una disposición a asumir riesgos audaces",
+                "french": "une volonté de prendre des risques audacieux",
+                "german": "eine Bereitschaft, mutige Risiken einzugehen"
+            }
+        }
+    },
+    {
+        "word": "Desiccate",
+        "part_of_speech": "verb",
+        "meaning": {
+            "english": "remove the moisture from (something)",
+            "translations": {
+                "spanish": "eliminar la humedad de algo",
+                "french": "retirer l'humidité de quelque chose",
+                "german": "die Feuchtigkeit aus etwas entfernen"
+            }
+        }
+    },
+    {
+        "word": "Gullible",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "easily persuaded to believe something",
+            "translations": {
+                "spanish": "fácilmente persuadido a creer algo",
+                "french": "facilement persuadé de croire quelque chose",
+                "german": "leicht überzeugt, etwas zu glauben"
+            }
+        }
+    },
+    {
+        "word": "Laudable",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "deserving praise and commendation",
+            "translations": {
+                "spanish": "merecedor de elogios y commendación",
+                "french": "méritant louange et éloges",
+                "german": "Lob und Anerkennung verdienend"
+            }
+        }
+    },
+    {
+        "word": "Pedant",
+        "part_of_speech": "noun",
+        "meaning": {
+            "english": "a person who makes an excessive display of learning",
+            "translations": {
+                "spanish": "una persona que hace una exhibición excesiva de erudición",
+                "french": "une personne qui fait une démonstration excessive de connaissances",
+                "german": "eine Person, die eine übermäßige Darstellung von Wissen zeigt"
+            }
+        }
+    },
+    {
+        "word": "Vacillate",
+        "part_of_speech": "verb",
+        "meaning": {
+            "english": "to waver between different opinions or actions",
+            "translations": {
+                "spanish": "dudar entre diferentes opiniones o acciones",
+                "french": "hésiter entre différentes opinions ou actions",
+                "german": "zwischen verschiedenen Meinungen oder Handlungen schwanken"
+            }
+        }
+    },
+    {
+        "word": "Adulterate",
+        "part_of_speech": "verb",
+        "meaning": {
+            "english": "to make (something) impure or weaker",
+            "translations": {
+                "spanish": "hacer que algo sea impuro o más débil",
+                "french": "rendre quelque chose impur ou plus faible",
+                "german": "etwas unrein oder schwächer machen"
+            }
+        }
+    },
+    {
+        "word": "Capricious",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "given to sudden changes of mood or behavior",
+            "translations": {
+                "spanish": "sujeto a cambios repentinos de humor o comportamiento",
+                "french": "sujet à des changements soudains d'humeur ou de comportement",
+                "german": "plötzliche Stimmungs- oder Verhaltensänderungen unterworfen"
+            }
+        }
+    },
+    {
+        "word": "Engender",
+        "part_of_speech": "verb",
+        "meaning": {
+            "english": "to produce, cause, or give rise to (something)",
+            "translations": {
+                "spanish": "producir, causar o dar origen a algo",
+                "french": "produire, causer ou donner lieu à quelque chose",
+                "german": "etwas hervorzubringen, zu verursachen oder zu schaffen"
+            }
+        }
+    },
+    {
+        "word": "Homogeneous",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "of the same or similar kind",
+            "translations": {
+                "spanish": "del mismo o similar tipo",
+                "french": "du même type ou d'un type similaire",
+                "german": "von der gleichen oder ähnlichen Art"
+            }
+        }
+    },
+    {
+        "word": "Loquacious",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "tending to talk a great deal",
+            "translations": {
+                "spanish": "tendiendo a hablar mucho",
+                "french": "tendant à beaucoup parler",
+                "german": "tendiert dazu, viel zu reden"
+            }
+        }
+    },
+    {
+        "word": "Pragmatic",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "dealing with problems in a reasonable way",
+            "translations": {
+                "spanish": "abordando problemas de manera razonable",
+                "french": "traitant les problèmes de manière raisonnable",
+                "german": "Probleme auf vernünftige Weise angehen"
+            }
+        }
+    },
+    {
+        "word": "Volatile",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "likely to change rapidly and unpredictably",
+            "translations": {
+                "spanish": "probable que cambie rápida e impredeciblemente",
+                "french": "susceptible de changer rapidement et de manière imprévisible",
+                "german": "wahrscheinlich schnell und unvorhersehbar zu wechseln"
+            }
+        }
+    },
+    {
+        "word": "Apathy",
+        "part_of_speech": "noun",
+        "meaning": {
+            "english": "lack of interest, enthusiasm, or concern",
+            "translations": {
+                "spanish": "falta de interés, entusiasmo o preocupación",
+                "french": "manque d'intérêt, d'enthousiasme ou de préoccupation",
+                "german": "Mangel an Interesse, Begeisterung oder Besorgnis"
+            }
+        }
+    },
+    {
+        "word": "Corroborate",
+        "part_of_speech": "verb",
+        "meaning": {
+            "english": "to confirm or make more certain",
+            "translations": {
+                "spanish": "confirmar o hacer más cierto",
+                "french": "confirmer ou rendre plus certain",
+                "german": "bestätigen oder sicherer machen"
+            }
+        }
+    },
+    {
+        "word": "Ephemeral",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "lasting for a very short time",
+            "translations": {
+                "spanish": "durando muy poco tiempo",
+                "french": "durant très peu de temps",
+                "german": "sehr kurze Zeit andauernd"
+            }
+        }
+    },
+    {
+        "word": "Laconic",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "using few words",
+            "translations": {
+                "spanish": "usando pocas palabras",
+                "french": "utilisant peu de mots",
+                "german": "wenige Worte verwendend"
+            }
+        }
+    },
+    {
+        "word": "Mitigate",
+        "part_of_speech": "verb",
+        "meaning": {
+            "english": "make less severe, serious, or painful",
+            "translations": {
+                "spanish": "hacer menos severo, serio o doloroso",
+                "french": "rendre moins sévère, sérieux ou douloureux",
+                "german": "weniger schwerwiegend, ernst oder schmerzhaft machen"
+            }
+        }
+    },
+    {
+        "word": "Propriety",
+        "part_of_speech": "noun",
+        "meaning": {
+            "english": "the state or quality of being correct or proper",
+            "translations": {
+                "spanish": "el estado o la calidad de ser correcto o adecuado",
+                "french": "l'état ou la qualité d'être correct ou approprié",
+                "german": "der Zustand oder die Qualität, korrekt oder angemessen zu sein"
+            }
+        }
+    },
+    {
+        "word": "Advocate",
+        "part_of_speech": "verb",
+        "meaning": {
+            "english": "publicly recommend or support",
+            "translations": {
+                "spanish": "recomendar o apoyar públicamente",
+                "french": "recommander ou soutenir publiquement",
+                "german": "öffentlich empfehlen oder unterstützen"
+            }
+        }
+    },
+    {
+        "word": "Cacophony",
+        "part_of_speech": "noun",
+        "meaning": {
+            "english": "a harsh, unpleasant mixture of sounds",
+            "translations": {
+                "spanish": "una mezcla dura y desagradable de sonidos",
+                "french": "un mélange de sons discordants et désagréables",
+                "german": "eine harte, unangenehme Mischung aus Geräuschen"
+            }
+        }
+    },
+    {
+        "word": "Enervate",
+        "part_of_speech": "verb",
+        "meaning": {
+            "english": "cause (someone or something) to feel drained of energy; weaken",
+            "translations": {
+                "spanish": "hacer que alguien o algo se sienta agotado; debilitar",
+                "french": "faire en sorte que quelqu'un ou quelque chose se sente épuisé; affaiblir",
+                "german": "jemanden oder etwas dazu bringen, sich energiegeladen zu fühlen; schwächen"
+            }
+        }
+    },
+    {
+        "word": "Ingenuous",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "innocent and unsuspecting",
+            "translations": {
+                "spanish": "inocente e ingenuo",
+                "french": "innocent et naïf",
+                "german": "unschuldig und arglos"
+            }
+        }
+    },
+    {
+        "word": "Misanthrope",
+        "part_of_speech": "noun",
+        "meaning": {
+            "english": "a person who dislikes humankind",
+            "translations": {
+                "spanish": "una persona que no le gusta la humanidad",
+                "french": "une personne qui n'aime pas l'humanité",
+                "german": "eine Person, die die Menschheit nicht mag"
+            }
+        }
+    },
+    {
+        "word": "Paradox",
+        "part_of_speech": "noun",
+        "meaning": {
+            "english": "a statement that contradicts itself but might be true",
+            "translations": {
+                "spanish": "una declaración que se contradice pero podría ser verdadera",
+                "french": "une déclaration qui se contredit mais qui pourrait être vraie",
+                "german": "eine Aussage, die sich selbst widerspricht, aber wahr sein könnte"
+            }
+        }
+    },
+    {
+        "word": "Venerate",
+        "part_of_speech": "verb",
+        "meaning": {
+            "english": "regard with great respect",
+            "translations": {
+                "spanish": "considerar con gran respeto",
+                "french": "regarder avec un grand respect",
+                "german": "mit großem Respekt betrachten"
+            }
+        }
+    },
+    {
+        "word": "Antipathy",
+        "part_of_speech": "noun",
+        "meaning": {
+            "english": "a strong feeling of dislike",
+            "translations": {
+                "spanish": "un fuerte sentimiento de desagrado",
+                "french": "un fort sentiment de dégoût",
+                "german": "ein starkes Gefühl der Abneigung"
+            }
+        }
+    },
+    {
+        "word": "Deride",
+        "part_of_speech": "verb",
+        "meaning": {
+            "english": "to express contempt for; ridicule",
+            "translations": {
+                "spanish": "expresar desprecio por; ridiculizar",
+                "french": "exprimer du mépris pour; ridiculiser",
+                "german": "Verachtung ausdrücken; verspotten"
+            }
+        }
+    },
+    {
+        "word": "Eulogy",
+        "part_of_speech": "noun",
+        "meaning": {
+            "english": "a speech that praises someone, typically someone who has recently died",
+            "translations": {
+                "spanish": "un discurso que alaba a alguien, típicamente a alguien que ha fallecido recientemente",
+                "french": "un discours qui loue quelqu'un, généralement quelqu'un qui est récemment décédé",
+                "german": "eine Rede, die jemanden lobt, typischerweise jemanden, der kürzlich gestorben ist"
+            }
+        }
+    },
+    {
+        "word": "Lethargic",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "lacking energy",
+            "translations": {
+                "spanish": "falta de energía",
+                "french": "manque d'énergie",
+                "german": "Energie fehlt"
+            }
+        }
+    },
+    {
+        "word": "Obdurate",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "stubbornly refusing to change one’s opinion",
+            "translations": {
+                "spanish": "negarse obstinadamente a cambiar de opinión",
+                "french": "refuser obstinément de changer d'avis",
+                "german": "hartnäckig sich weigern, die eigene Meinung zu ändern"
+            }
+        }
+    },
+    {
+        "word": "Philanthropic",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "seeking to promote the welfare of others",
+            "translations": {
+                "spanish": "buscar promover el bienestar de los demás",
+                "french": "chercher à promouvoir le bien-être des autres",
+                "german": "streben, das Wohlergehen anderer zu fördern"
+            }
+        }
+    },
+    {
+        "word": "Waver",
+        "part_of_speech": "verb",
+        "meaning": {
+            "english": "to go back and forth between choices or opinions",
+            "translations": {
+                "spanish": "ir de un lado a otro entre opciones u opiniones",
+                "french": "aller et venir entre des choix ou des opinions",
+                "german": "zwischen Entscheidungen oder Meinungen hin und her schwanken"
+            }
+        }
+    },
+    {
+        "word": "Bolster",
+        "part_of_speech": "verb",
+        "meaning": {
+            "english": "to support or strengthen",
+            "translations": {
+                "spanish": "apoyar o fortalecer",
+                "french": "soutenir ou renforcer",
+                "german": "unterstützen oder stärken"
+            }
+        }
+    },
+    {
+        "word": "Dissonance",
+        "part_of_speech": "noun",
+        "meaning": {
+            "english": "a lack of harmony or agreement",
+            "translations": {
+                "spanish": "una falta de armonía o acuerdo",
+                "french": "un manque d'harmonie ou d'accord",
+                "german": "Mangel an Harmonie oder Übereinstimmung"
+            }
+        }
+    },
+    {
+        "word": "Garrulous",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "excessively talkative",
+            "translations": {
+                "spanish": "excesivamente hablador",
+                "french": "excessivement bavard",
+                "german": "übermäßig gesprächig"
+            }
+        }
+    },
+    {
+        "word": "Malleable",
+        "part_of_speech": "adj.",
+        "meaning": {
+            "english": "easily influenced; pliable",
+            "translations": {
+                "spanish": "fácilmente influenciable; maleable",
+                "french": "facilement influençable; malléable",
+                "german": "leicht beeinflussbar; formbar"
+            }
+        }
+    },
+    {
+        "word": "Ostentation",
+        "part_of_speech": "noun",
+        "meaning": {
+            "english": "excessive display of wealth",
+            "translations": {
+                "spanish": "una exhibición excesiva de riqueza",
+                "french": "une exposition excessive de richesse",
+                "german": "eine übermäßige Zurschaustellung von Reichtum"
+            }
+        }
+    },
+    {
+        "word": "Prevaricate",
+        "part_of_speech": "verb",
+        "meaning": {
+            "english": "avoid telling the truth by not directly answering a question",
+            "translations": {
+                "spanish": "evitar decir la verdad al no responder directamente a una pregunta",
+                "french": "éviter de dire la vérité en ne répondant pas directement à une question",
+                "german": "vermeiden, die Wahrheit zu sagen, indem man nicht direkt auf eine Frage antwortet"
+            }
+        }
+    }
+]
